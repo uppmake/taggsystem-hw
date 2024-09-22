@@ -1,4 +1,8 @@
 (sym_lib_table
   (version 7)
   (lib (name "taggsystem_library")(type "KiCad")(uri "${KIPRJMOD}/taggsystem_library.kicad_sym")(options "")(descr ""))
+  (lib (name "00_Resistors_0402")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_0402.kicad_sym")(options "")(descr ""))
+  (lib (name "00_Resistors_0603")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_0603.kicad_sym")(options "")(descr ""))
+  (lib (name "00_Resistors_0805")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_0805.kicad_sym")(options "")(descr ""))
+  (lib (name "00_Resistors_1206")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_1206.kicad_sym")(options "")(descr ""))
 )
