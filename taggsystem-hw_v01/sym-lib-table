@@ -5,4 +5,5 @@
   (lib (name "00_Resistors_0603")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_0603.kicad_sym")(options "")(descr ""))
   (lib (name "00_Resistors_0805")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_0805.kicad_sym")(options "")(descr ""))
   (lib (name "00_Resistors_1206")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_Resistors_1206.kicad_sym")(options "")(descr ""))
+  (lib (name "00_IC_Power")(type "KiCad")(uri "${KIPRJMOD}/KiCad_lib/Sch lib/00_IC_Power.kicad_sym")(options "")(descr ""))
 )
