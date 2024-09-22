@@ -196,6 +196,12 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mfg1" "Murata" (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Mfg1 pn" "LQM2HPN4R7MGCL" (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
     (symbol "IND_4U7_800mA_SMT_1008_0_1"
       (arc (start 0 -2.54) (mid 0.6323 -1.905) (end 0 -1.27)
         (stroke (width 0) (type default))
