@@ -1,0 +1,3 @@
+[submodule "taggsystem-hw_v01/KiCad_lib"]
+	path = taggsystem-hw_v01/KiCad_lib
+	url = git@github.com:uppmake/KiCad_lib.git
